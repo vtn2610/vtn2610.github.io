@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Brief Introduction to my life!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Vy ("Vee") Nguyen. I'm from Ho Chi Minh City Vietnam.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Here are some of my hobbies:
+ 
+ * I really enjoy playing/watching tennis!
+ * I also enjoy drawing (try to do it whenever I have free time
+ * Also love coding!
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Let's be friends!
