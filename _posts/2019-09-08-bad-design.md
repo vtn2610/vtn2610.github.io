@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Bad Design
 ---
 ## Williams Peoplesoft - An Example of Bad Design
@@ -17,5 +17,3 @@ title: Bad Design
  ![Peoplesoft Class search toolbar]({{site.baseurl}}/img/Screen Shot 2019-09-08 at 10.31.58 AM.png)
  
  Peoplesoft is clearly an example of a poorly-designed website, and could be improved much more to change the overall students' experience
-
-
