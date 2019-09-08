@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Bad Design
 ---
 ## Williams Peoplesoft - An Example of Bad Design
