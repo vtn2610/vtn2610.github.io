@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Project Proposal
 ---
 ## A PEACE OF MIND
@@ -20,5 +20,4 @@ Williams students, for example, are trapped within the confines of Williamstown,
 
 Sometimes all we need is just a peace of mind.  The solution can be to create an app that (ironically) hopefully stops people from using their cellphones/computers, to be both more relaxed and focused in their own surrounding. The app can offer an extensive graph of currently stressed-inducing “activities” collected from various types of users, varying from playing sports, or doing homework, to preparing business meeting. Depending from the current location of the user and his/her purpose for using the app, the solution can vary. An athlete may be using it to improve their focus between match performances. A light sleeper may use it to improve his/her sleep at night. A student during exam period can use it to both reduce anxiety level and be more focused.
 
-The inspiration is taken from current self-care apps, including [Headspace](https://www.headspace.com), [Calm](https://www.calm.com), [Shine](https://advice.shinetext.com). 
-
+The inspiration is taken from current self-care apps, including [Headspace](https://www.headspace.com), [Calm](https://www.calm.com), [Shine](https://advice.shinetext.com).
