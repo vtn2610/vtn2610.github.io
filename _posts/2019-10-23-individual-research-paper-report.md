@@ -1,10 +1,7 @@
 ---
 layout: post
-published: false
+published: true
 title: Individual Research Paper Report
-subtitle: ''
-date: ''
-image: ''
 ---
 ## Research Paper Report
 
@@ -20,4 +17,3 @@ Design Iterations for a location-aware event planner
 By Zachary Pousman - Giovanni Iachello - Rachel Fithian - Jehan Moghazy - John Stasko
 
 DOI 10.1007/s00779-004-0266-y
-
