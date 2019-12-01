@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Design Manifesto
 ---
 ## Design Manifesto
@@ -53,5 +53,3 @@ When we first developed our paper prototype, we have done all sort of testing an
 *Our filter feature after usability testing.*
 
 In real usability testing, the team would have to test their product with hundreds of user testers, and that would bring about thousands of different ideas. I realize that maybe we wouldn’t have to redesign our prototype according to everyone’s wish, because that would be impossible. However, in order to know what everyone thinks, we would still need to do a lot more usability testing. For Clink!, we only had the chance to do 3 usability testing. If we could have done more, we would have been able to collect more data and find out the general trend of the user before setting out to correct out prototype. Even though we cannot fulfill everyone’s wish, we can definitely try to combine them together in a way that makes sense. For example, we tried to design Clink! filter feature such that the user only have to type the first several words, then the suggestion boxes will appear, guessing what they meant to type in. That way, the final prototype would be able to meet the “needs” of many users.
-
-
